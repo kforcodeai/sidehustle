@@ -45,6 +45,10 @@ For direct overseas sales, quote in one agreed invoice currency. For the initial
 
 If the price is challenged, reduce the process or the delivery allowance. A smaller paid repair can be US$200 or ₹7,500 for one diagnosed issue and up to three hours including testing and notes. Do not sell an unknown integration failure at that price without first defining the fault and acceptance criteria.
 
+## Optional workflow diagnostic
+
+A US$149 diagnostic is available for an overseas agency with a specific existing concern. It covers one journey containing up to three named workflows and a short findings recording, within two total work hours including access review, inspection and reporting. It excludes repairs, a full account audit and a deliverability investigation. Quote broader investigations separately. The diagnostic is not a compulsory first purchase, and it may conclude that no further paid work is necessary. A repair is a separate purchase with its own acceptance criteria.
+
 ## What monthly support actually buys
 
 The US$600 or ₹15,000 plan covers up to eight delivery hours per calendar month across up to three named sub-accounts. It includes scheduled weekly checks of the agreed workflows, minor fixes, agreed small changes, a short weekly update and one monthly review. All checks, calls, fixes, changes and documentation consume the allowance.
@@ -55,13 +59,31 @@ Unused hours expire at month-end because the fee reserves capacity. Send a warni
 
 Offer support only where continuing work exists. If the buyer needs a build every few months and no ongoing checks, stay available on a project basis and agree a review date.
 
+After proving demand and confirming capacity, an overseas buyer can instead reserve up to sixteen hours across up to six named sub-accounts for US$1,200/month. All service time counts, there is one active request at a time, and new client launches remain separate projects. Warn at twelve hours and require approval before exceeding sixteen. This preserves the US$75 hourly allowance rate. The service window, scheduled rather than continuous checks, monthly expiry and approved US$75/hour overage terms are the same as the eight-hour plan.
+
 ## Direct Indian business package after validation
 
 For a suitable business that wants you to host its HighLevel sub-account, start by testing **₹25,000 setup plus ₹15,000/month**, for one location and the same core journey. Monthly service includes core platform access and up to two total service hours for scheduled checks, one monthly review, support and minor changes. New journeys and marketing campaign management are extra.
 
 WhatsApp, AI, messages, calls, premium workflow actions, domains, external integrations and third-party subscriptions are billed separately at disclosed provider cost unless the written quote includes a defined allowance. This direct-business package is an optional later route; do not start selling it alongside the agency pilot without delivery capacity.
 
+Use the direct-business expansion conditions in [Operator strategy](06-operator-strategy.md): two accepted paid projects, a repeat purchase or renewal, positive delivery contribution and six spare hours a week for a two-week discovery exercise. The base setup includes one existing eligible channel. New WhatsApp onboarding, additional lead sources or larger journeys may require a separate quote; ₹35,000–60,000 can be tested for a larger implementation only after costing its actual scope. It is not the price of the unchanged minimum sprint.
+
+For an Indian owner who needs diagnosis first, offer a ₹4,999 enquiry-process audit, credited toward setup if purchased within fourteen days. Include an owner interview, authorised review of up to twenty recent enquiry records, one agreed channel test, a one-page report and a twenty-minute walkthrough within three total work hours. Exclude repairs, unnecessary sensitive records and a complete advertising audit. A short introductory call is free; the audit is optional when the implementation brief is already clear.
+
+The acceptance commitment is to demonstrate agreed functional tests before launch and correct scoped defects for fourteen calendar days after acceptance. Do not guarantee that every enquiry receives a delivered reply within two minutes, or offer indefinite free work. Automated acknowledgement, human response and provider delivery are different measures.
+
 The customer should be able to explain how the fee could pay for itself. For example, ₹15,000 service plus an assumed ₹2,000 usage budget requires two genuinely additional sales at ₹10,000 contribution per sale to exceed monthly cost. In the first month, adding ₹25,000 setup takes the cost to ₹42,000, requiring five such sales to exceed it. These are break-even illustrations, not expected results. Include the client's sales cycle and ability to serve those customers.
+
+For potential upside, use recoverable enquiries × incremental conversion rate × contribution per sale. Twenty potentially recoverable enquiries at an assumed 20% conversion and ₹10,000 contribution represent ₹40,000 before service fees, usage and setup. Validate those assumptions; twenty neglected enquiries do not equal twenty lost sales.
+
+## Referral cost and pricing presentation
+
+If commercially justified, test a referral agreement at 15% of collected setup service fees and 10% of collected recurring service fees for up to twelve paid service months. Calculate it after discounts and exclude tax, provider usage, third-party pass-throughs and refunds. Pay after collection, stop when the customer stops paying, and reconcile later refunds under the agreement. Check any professional restrictions before offering fees to advisers.
+
+At ₹25,000 setup and ₹15,000 monthly service, those referral costs are ₹3,750 and ₹1,500 respectively. Deduct them when testing contribution; they are not included in the uncommissioned examples below. Do not stack referral payments from multiple sources without pricing their total cost.
+
+Use [Client offers and starting prices](07-client-offers-and-starting-prices.md) as the concise sales reference. The broad task catalogue requires recosting before being used for current quotes. Keep its service inventory for estimation, and reprice from effort, revisions, acquisition, platform allocation and support responsibility rather than multiplying every price by an arbitrary factor.
 
 ## Platform costs and plan choice
 

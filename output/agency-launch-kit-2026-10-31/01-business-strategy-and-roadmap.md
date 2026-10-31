@@ -20,7 +20,7 @@ HighLevel operates an official Certified Admin program and directory covering se
 | Overseas business managed automation | Potential for a larger managed relationship | You own more of the discovery, trust, sales and support burden | Expand after you have proof in one business type |
 | Software subscription resale | Recurring platform access revenue | Price competition, platform costs and customer support | Add only after repeatable delivery and retention are established |
 
-Do not run five offers simultaneously. Give the agency implementation offer one focused month, with a defined activity target and a review date.
+Do not run five offers simultaneously. Give the agency implementation offer one focused month, with researched agency outreach and matched Upwork applications as the two acquisition channels. Community activity and certification are optional supporting work. Use a defined activity target and a review date.
 
 ## The first customer profile
 
@@ -50,7 +50,9 @@ Your commercial value is the owner's delivery capacity and reduced rework. Demon
 
 For a warm Indian agency opportunity, sell the same defined implementation in rupees. The proposed pilot is ₹15,000, the standard sprint ₹25,000, and support ₹15,000/month for up to eight delivery hours. The partner continues to pay its own platform and usage costs.
 
-For direct business sales in Lucknow, interview owners before selecting a vertical. Compare businesses with repeated lead follow-up needs: interior or modular kitchen firms, automotive service businesses, skill-training institutes and other appointment-based services. These are discovery candidates, not a ranking of proven local demand.
+Begin direct business discovery in Lucknow after two paid projects are accepted, one buyer purchases again or renews, actual delivery contribution is positive, and six hours a week are available for two weeks without affecting current commitments. A date such as day 45 is a review point, not an automatic expansion trigger.
+
+Interview five owners or authorised managers in each of three accessible verticals before choosing a candidate. Compare businesses with repeated lead follow-up needs: interior or modular kitchen firms, automotive service businesses, skill-training or study-abroad businesses and appointment-based clinics. These are discovery candidates, not a ranking of proven local demand. With permission, review a small sample of real enquiry records and run a labelled channel test; do not submit fabricated customer or patient enquiries. Separate after-hours handling from response during published service hours.
 
 Ask for monthly enquiries, follow-up practices, sales cycle, contribution per sale, staffing and capacity. Prefer a business with approximately 50 or more relevant monthly enquiries, meaningful contribution per sale and a staff member who will act on follow-up tasks. A large legitimate customer base with repeat-service needs can be an alternative to new enquiries.
 
@@ -81,7 +83,7 @@ If 60 properly researched prospects and the follow-up sequence produce too littl
 
 ## Months four to twelve
 
-Specialise in the most frequently purchased workflow or client industry. Improve the reusable build and increase prices for new work when your delivery record supports it. Offer direct managed services only where you understand the buyer's sales process.
+Specialise in the most frequently purchased workflow or client industry. Improve the reusable build and review prices for new work using actual hours, contribution and buyer feedback. Offer direct managed services only where you understand the buyer's sales process and the expansion conditions are met. Compare markets using contribution per owner hour, acquisition effort, payment reliability and repeat purchases. Do not shrink profitable export work simply because a particular number of Indian clients has signed.
 
 Add a contractor after several months of repeat demand and documented work. Keep financial reserves for that commitment. Review customer concentration as revenue grows; aim to avoid depending indefinitely on one agency for most of your income.
 

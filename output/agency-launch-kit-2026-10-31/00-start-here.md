@@ -2,7 +2,7 @@
 
 Prepared for an automation specialist based in Lucknow. Planning date: 31 October 2026.
 
-Start as an implementation partner for small overseas agencies already using HighLevel. Sell one repeatable client onboarding project, deliver it inside the agency's account, and earn repeat work through dependable delivery and a defined support plan. Use Indian marketing agencies as a second prospecting channel after the overseas offer has had a fair test.
+Start as an implementation partner for small overseas agencies already using HighLevel. Sell one repeatable client onboarding project, deliver it inside the agency's account, and earn repeat work through dependable delivery and a defined support plan. Use Indian marketing agencies as an alternative channel for the same service after the overseas offer has had a fair test or a suitable warm opportunity appears. Direct Indian business sales are a separate expansion experiment, subject to the conditions below.
 
 This is the recommended starting bet for your skills, not a measured claim about which business model has the highest success rate. Validate it with paid projects before expanding. A flexible budget and schedule let you run the experiment properly; they do not replace proof that a buyer will pay.
 
@@ -21,16 +21,23 @@ This is the recommended starting bet for your skills, not a measured claim about
 | Software responsibility | Partner agency pays for its HighLevel account and all client usage |
 | Primary acquisition | Research relevant agencies, contact owners personally, show a working demo, sell one paid pilot |
 | First milestone | One paid project accepted by the buyer, followed by a second project or a support renewal |
+| First acquisition channels | Researched agency outreach and closely matched Upwork applications |
+| Direct India expansion | Two completed paid projects, one repeat purchase or renewal, positive delivery contribution and spare capacity |
 
 All agency fees in this kit are proposed starting prices, before applicable tax and payment-provider charges. They are not market averages. Dollar amounts mean US dollars. The pricing document defines scope and extra charges.
 
 ## Read these documents in order
+
+**Start with [Operator strategy](06-operator-strategy.md).** It sets the starting market, conditions for expansion, authorised customer discovery and financial scenarios. The pricing document defines commercial scope; the delivery document defines acceptance and support. Read these together rather than treating an ambitious roadmap as an override of a scoped quote.
 
 1. [Business strategy and roadmap](01-business-strategy-and-roadmap.md): model choice, ideal customer, Indian and overseas routes, milestones and decision rules.
 2. [Offers pricing and economics](02-offers-pricing-and-economics.md): minimum offer, exact prices, scope, costing, software charges and proposal template.
 3. [Client discovery and sales](03-client-discovery-and-sales.md): where to find buyers, a researched starter list, outreach messages, discovery questions and closing scripts.
 4. [Delivery and repeat business](04-delivery-and-repeat-business.md): build process, acceptance tests, support, reporting, renewals and referrals.
 5. [First month operating plan](05-first-month-operating-plan.md): weekly execution, daily routine, prospect records and business scorecard.
+6. [Client offers and starting prices](07-client-offers-and-starting-prices.md): concise customer-facing scope for agency implementation and the later Indian business package.
+
+Begin direct Indian business discovery only after two paid projects are accepted, a buyer purchases again or renews, actual delivery contribution is positive, and six hours a week are available for a two-week discovery exercise without affecting current commitments. Keep whichever market proves more attractive; there is no automatic switch away from export clients.
 
 ## Your first seven days
 

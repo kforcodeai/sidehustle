@@ -78,6 +78,8 @@ Use this sequence:
 
 The support fee is for scheduled checks and reserved implementation capacity. Fourteen-day correction of your original scoped defects remains separate and does not consume the paid allowance.
 
+Where capacity and recurring work justify it, the overseas sixteen-hour plan is US$1,200/month across up to six named sub-accounts. Its checks, calls and changes all consume the allowance; new launches remain separate. Use the same request queue and approval boundaries, warn at twelve hours, and stop at sixteen without approval. Use the buyer's actual allowance in updates and renewal discussions.
+
 ## The weekly update
 
 Send a concise update on the same agreed day. Include a small amount of evidence and a clear next action.
@@ -93,6 +95,8 @@ Send a concise update on the same agreed day. Include a small amount of evidence
 > **Next:** [One priority for the coming week].
 
 Avoid reporting fictitious value. “Three hours saved” needs a credible before-and-after estimate. “Twelve appointments booked” is an observed count; it does not prove twelve additional appointments caused by your work.
+
+For a buyer on the larger plan, replace eight with sixteen in the allowance line. Do not promise an additional automation each month irrespective of the hours it requires.
 
 ## Monthly review and renewal
 

@@ -1,10 +1,12 @@
 # Business Services Catalogue
 
-**Services & indicative fee ranges | India | 31 October 2026**
+**Service inventory and historical task estimates | India | 31 October 2026**
+
+**Pricing status:** The task ranges below are retained for scoping and need recosting before use in new customer quotes. For the agency launch, use [Client offers and starting prices](output/agency-launch-kit-2026-10-31/07-client-offers-and-starting-prices.md), which defines the current proposed packages and their limits. This inventory and existing PDF exports of it are not the current launch price list.
 
 Practical services to attract enquiries, organise follow-up, take bookings and payments, improve customer communication and simplify everyday operations. Choose one service or combine several into a connected solution.
 
-The ranges below are service fees for the stated scope, in INR before applicable tax. Your quote confirms the exact fee. Software access, paid tools, message/call/AI usage, external purchases and optional support are separate unless explicitly included. The lower end assumes straightforward delivery using supplied material; more work within the scope moves the fee towards the upper end.
+The historical ranges below estimated service work for the stated scope, in INR before applicable tax. Recalculate delivery, revisions, acquisition, software allocation and ongoing responsibility before issuing a quote. Software access, paid tools, message/call/AI usage, external purchases and support must be identified in that quote; shared work is counted once. Do not apply an across-the-board multiplier to turn these task estimates into managed-package prices.
 
 ## How your quote is built
 

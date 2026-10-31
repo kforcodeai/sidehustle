@@ -2,6 +2,8 @@
 
 The first month tests whether a specific agency buyer will pay for a clearly bounded implementation and whether you can deliver it economically. Use one offer and one primary market. Build enough proof to sell, then give prospecting and conversations consistent time.
 
+Use two acquisition channels: researched UK agency outreach and matched Upwork applications. Plan five to ten marketplace applications per week only where suitable jobs exist. Track their cost and preparation time. Community participation and certification can support credibility later; they are not additional daily quotas.
+
 ## Weekly plan
 
 | Week | Work | Output |
@@ -17,7 +19,8 @@ Activity counts are targets, not promised replies or sales. Use discovery qualit
 
 Start with a 25-hour workweek for this experiment and adjust around actual projects:
 
-- Eight hours for prospect research and individual outreach.
+- Six hours for prospect research and individual outreach.
+- Two hours for matched marketplace applications and reviewing their cost and fit.
 - Four hours for follow-ups, discovery calls and proposals.
 - Eight hours for the demo, paid delivery or portfolio improvement.
 - Three hours for documentation, testing improvements and reusable assets.
@@ -26,6 +29,8 @@ Start with a 25-hour workweek for this experiment and adjust around actual proje
 A paid sprint may need up to 12 delivery hours. In that week, move hours from portfolio improvement and research, and schedule fewer new calls. Keep at least a small prospecting block so one delivery project does not empty the pipeline.
 
 Do not use flexible hours to imply unlimited availability. Publish an overlap window you can maintain and leave room for interruptions.
+
+Protect a sixty-to-ninety-minute acquisition block on working days within the allocations above. Urgent client incidents and committed delivery come first; reschedule the block instead of letting prospecting disappear. Do not promise overnight completion merely because time zones overlap.
 
 ## First ten working days
 
@@ -94,6 +99,8 @@ Do not buy lead databases, several outbound subscriptions, advanced AI packages 
 
 Before accepting an overseas payment, agree the invoice currency, amount, payment route, responsibility for fees and refund terms. Use a payment provider available to your business and keep invoices and receipts. Establish the appropriate accounting and tax treatment with your accountant before trading; this kit does not calculate tax liabilities.
 
+First confirm GST registration requirements and whether the engagement qualifies as an export of services. The GST portal describes LUT filing before the qualifying supply for registered persons choosing the eligible route to export without payment of integrated tax; the LUT relates to the financial year. It is not a blanket step for every foreign invoice. Confirm the required remittance records for your actual payment route with your accountant and bank. [Official GST LUT guidance](https://tutorial.gst.gov.in/userguide/refund/Furnishing_of_Letter_of_Undertaking_for_Export_of_Goods_or_Services.htm).
+
 ## End of month review
 
 Write one page answering:
@@ -108,6 +115,8 @@ Write one page answering:
 8. Which single change should improve the next month?
 
 Continue the offer if paid demand and delivery contribution are encouraging. Refine the message if relevant buyers engage but do not understand the service. Refine scope or pricing if projects sell but consume too much time. Test Indian agency partners if the overseas channel has received a proper targeting and follow-up test without enough useful conversation.
+
+Direct Indian business expansion requires two accepted paid projects, one repeat purchase or renewal, positive actual delivery contribution, and six hours a week available for a two-week discovery exercise. Review this condition at the end of the month; do not force expansion on day 45. Keep profitable export work unless a comparison of contribution, acquisition effort, payments and retention supports reallocating capacity.
 
 ## What to postpone
 

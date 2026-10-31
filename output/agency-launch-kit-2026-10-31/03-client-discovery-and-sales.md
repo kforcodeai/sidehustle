@@ -24,6 +24,8 @@ Useful search strings:
 - `"HighLevel" "hiring" "agency"`
 - `"marketing agency" "Lucknow" "CRM"`
 
+For the first month, prioritise researched agency outreach and matched Upwork applications. The other channels are later options or supporting activity, not simultaneous daily quotas. Begin with five to ten relevant marketplace applications per week if suitable jobs exist, within a recorded budget for application costs and time. Do not fill a quota with poor matches or assume applying early guarantees a better result.
+
 Research one country at a time. Start with the UK; Australia is a later test if it fits your working hours and the same buyer problem. Do not purchase a large unqualified contact list before you can recognise a good prospect manually.
 
 ## A researched starter set
@@ -165,3 +167,17 @@ Use this pitch:
 > Aap ads aur client relationship handle kijiye. Main enquiry capture, follow-up aur booking ka HighLevel setup build aur test karunga. Pehle ek client ka defined paid pilot karte hain. Agar delivery useful lage, agle clients ke liye repeat kar sakte hain.
 
 For a direct business owner, ask about monthly enquiries and the last ten enquiries that did not convert. Sell one confirmed operational improvement. Do not lead with the full service catalogue.
+
+## Direct Indian business discovery when capacity permits
+
+Use the expansion conditions in [Operator strategy](06-operator-strategy.md) before launching this experiment. Interview five owners or authorised managers in each of three accessible verticals. Ask about contribution per sale, enquiry volume, current process, buying urgency, staff ownership and existing tools. Choose a candidate from those conversations and test willingness to pay through scoped paid work.
+
+Arrange any enquiry-record review or test submission with the owner's permission. Use a labelled test and distinguish published service hours from after-hours behaviour. Do not fabricate patient or customer enquiries or claim that one test measures the entire business.
+
+For an owner who wants a deeper diagnosis, quote the optional ₹4,999 audit: interview, authorised review of up to twenty recent records, one channel test, one-page report and twenty-minute walkthrough within three total work hours. Credit it toward setup if purchased within fourteen days. A direct setup quote remains appropriate when the brief is already clear.
+
+Use this pitch:
+
+> Can we walk through how an enquiry reaches the person responsible and becomes a booking? With your permission, we can review a small sample and identify a specific gap. I can then quote one capture, follow-up and booking journey, with staff handover and acceptance tests. The minimum package starts at ₹25,000 setup plus ₹15,000/month with a defined service allowance; usage is separate.
+
+Estimate value using recoverable enquiries, an evidenced conversion assumption and contribution per sale. For example, twenty potentially recoverable enquiries × an assumed 20% conversion × ₹10,000 contribution equals ₹40,000 before service costs. This is a scenario to validate, not a claim that slow replies have already lost that amount.
